@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **traebracy/traebracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-WIP, I still have more projects too upload and more projects to do this summer and I also have to learn DSA and such...
+WIP, I still have more projects too upload and more projects to do this summer that are more than just class projects/simple projects without aggregation and I also have to learn DSA and work toward finishing my certificates and reaching platinum in codedex and finishing software implementations on my new laptop. 
 
--->
+
