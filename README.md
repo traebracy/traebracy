@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 WIP sorry, I still have more projects too upload and more projects to do this summer that are more than just class projects/simple projects without aggregation and file modularity and I also have to learn DSA and work toward finishing my certificates and reaching platinum in codedex and finishing software implementations on my new laptop. 
 
+The documentation on my current repo's is not finished and is a work in progress and I plan to finish the documentation within a week or so...
+
 
