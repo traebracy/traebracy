@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-WIP, I still have more projects too upload and more projects to do this summer that are more than just class projects/simple projects without aggregation and I also have to learn DSA and work toward finishing my certificates and reaching platinum in codedex and finishing software implementations on my new laptop. 
+WIP, I still have more projects too upload and more projects to do this summer that are more than just class projects/simple projects without aggregation and file modularity and I also have to learn DSA and work toward finishing my certificates and reaching platinum in codedex and finishing software implementations on my new laptop. 
 
 
