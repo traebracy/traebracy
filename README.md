@@ -1,5 +1,6 @@
 ## Hi there it's Trae 👋
 
+I'm spending this summer relearning. Additionally, I plan to learn DSA before my next class in the fall of 2026, and also to build a resume website; I spent loads of time learning Java, which was an awesome language, and plan to relearn Python as it's my primary language, the one I'm most comfortable with. 
 
 - 🔭 I’m currently working on reviewing core fundamental programming concepts!
 - 🌱 I’m currently learning JavaScript and React early before web development! 
