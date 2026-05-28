@@ -8,6 +8,6 @@
 - 💬 Ask me about why I love programming so much!
 - 📫 How to reach me: linkedin.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I started programming at 13, but never took it seriously and would program Roblox games.
+- ⚡ Fun fact: I started programming at 13, but never took it seriously and actually transitioned into 3D modeling and game development. Everything changed when I started learning Python. 
 
 
