@@ -1,21 +1,13 @@
-## Hi there 👋
+## Hi there it's Trae 👋
 
 
-**traebracy/traebracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on reviewing core fundamental programming concepts!
+- 🌱 I’m currently learning JavaScript and React early before web development! 
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-WIP sorry, I still have more projects too upload and more projects to do this summer that are more than just class projects/simple projects without aggregation and file modularity and I also have to learn DSA and work toward finishing my certificates and reaching platinum in codedex and finishing software implementations on my new laptop. 
-
-The documentation on my current repo's is not finished and is a work in progress and I plan to finish the documentation within a week or so...
+- 💬 Ask me about why I love programming so much!
+- 📫 How to reach me: linkedin.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I started programming at 13, but never took it seriously and would program Roblox games.
 
 
