@@ -1,13 +1,13 @@
 ## Hi there it's Trae 👋
 
-I'm spending this summer relearning. Additionally, I plan to learn DSA before my next class in the fall of 2026, and also to build a resume website; I spent loads of time learning Java, which was an awesome language, and plan to relearn Python as it's my primary language, the one I'm most comfortable with. 
+I love learning, and each day I make it my mission to learn something new, whether it be something I figure out at my job, uni, or something I learn through what I enjoy most, programming.
 
-- 🔭 I’m currently working on reviewing core fundamental programming concepts!
-- 🌱 I’m currently learning JavaScript and React early before web development! 
-- 👯 I’m looking to collaborate on literally anything I love learning. 
-- 💬 Ask me about why I love programming so much!
-- 📫 How to reach me: linkedin.
+- 🔭 I’m currently reviewing basic programming concepts and practicing working with arrays for "DSA".
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and React early before I take intro to web development! 
+- 👯 I’m looking to collaborate on building an "ABA" app for neurodivergent children. 
+- 💬 Ask me about learning and why I love it so much.
+- 📫 How to reach me: LinkedIn or Codeex; I've linked them in my profile.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I started programming at 13, but never took it seriously and actually transitioned into 3D modeling and game development. Everything changed when I started learning Python. 
+- ⚡ Fun fact: I love Jesus ✞, philosophy 📖, writing ✍️, dogs 🐶, and my family. (&& learning 🧐, of course...) 
 
 
