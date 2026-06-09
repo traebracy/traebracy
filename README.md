@@ -13,4 +13,4 @@ I love learning, and each day I make it my mission to learn something new, wheth
 
 
 
-- do fizzbuzz for the languages you already know which include, python, java, html, css, javascript, c++
+- do fizzbuzz for the languages you already know which include, python, java, html, css, javascript, c++ (wip)
