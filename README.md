@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Grayscale cherry blossom profile banner" />
-</p>
-
 <h1 align="center">Trae Bracy</h1>
 
 <p align="center">
