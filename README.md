@@ -1,7 +1,7 @@
 <h1 align="center">Trae Bracy</h1>
 
 <p align="center">
-  Programming student learning Python, Java, C++, and web development.
+  Programming student learning Python, Java, C++, and web development. ("My profile is a work in progress, this is not the final result, it may take a few months 😬!"
 </p>
 
 <p align="center">
