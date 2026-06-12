@@ -1,7 +1,7 @@
 <h1 align="center">Trae Bracy</h1>
 
 <p align="center">
-  Programming student building a thoughtful foundation in software development, web design, and object-oriented programming.
+  Programming student learning Python, Java, C++, and web development.
 </p>
 
 <p align="center">
@@ -18,17 +18,20 @@
 
 ## About Me
 
-I am learning how to turn programming fundamentals into projects that feel organized, useful, and intentional. My work is growing across Python, Java, C++, and web development, with a long-term interest in building thoughtful software that can help people in real life.
+I am learning how to build projects that are clear, useful, and easier to understand over time. Right now, I am growing across Python, Java, C++, HTML, CSS, JavaScript, and React.
 
-I care about clean structure, readable code, good documentation, and projects that show real understanding instead of just filling space.
+I care about readable code, organized projects, and documentation that explains what a project does without making it feel bigger than it is.
 
-## Current Focus
+## Currently Learning
 
-- Strengthening programming fundamentals and data structures
-- Practicing object-oriented programming in Java and Python
-- Building cleaner project documentation and comments
-- Learning HTML, CSS, JavaScript, and React
-- Exploring ideas for an ABA-focused app for neurodivergent children
+- React and modern web development
+- Data structures and programming fundamentals
+- Object-oriented programming in Java and Python
+- Cleaner project organization and documentation
+
+## What I'm Building Toward
+
+I am interested in building software that supports learning, accessibility, and real-world problem solving. One long-term goal I care about is creating tools for neurodivergent children and families.
 
 ## Featured Work
 
@@ -39,7 +42,7 @@ I care about clean structure, readable code, good documentation, and projects th
 | [Lantern Bloom Restaurant](https://github.com/traebracy/lantern-bloom-restaurant-html) | HTML/CSS | Layout, visual design, page structure, form styling |
 | [ATM Class System](https://github.com/traebracy/atm-class-java) | Java | Classes, inheritance, account types, menu-driven logic |
 
-## Practice Archive
+## Learning Collections
 
 Smaller exercises are grouped into collection repositories so my profile stays easier to navigate:
 
@@ -56,4 +59,4 @@ Smaller exercises are grouped into collection repositories so my profile stays e
 
 ## A Little More
 
-Outside of code, I love learning, writing, philosophy, faith, and thinking about how technology can become something genuinely useful. I am still growing, but I want my work to become more focused, more honest, and more meaningful over time.
+Outside of code, I love learning, writing, philosophy, faith, and thinking about how technology can become something genuinely useful. I am still growing, but I want my work to become more focused, honest, and meaningful over time.
