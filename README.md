@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/floral-banner.svg" width="100%" alt="Soft floral line art banner" />
+  <img src="assets/floral-banner.svg" width="100%" alt="Animated grayscale cherry blossom line-art banner" />
 </p>
 
 <h1 align="center">Trae Bracy</h1>
@@ -63,5 +63,5 @@ Smaller exercises are grouped into collection repositories so my profile stays e
 Outside of code, I love learning, writing, philosophy, faith, and thinking about how technology can become something genuinely useful. I am still growing, but I want my work to become more focused, more honest, and more meaningful over time.
 
 <p align="center">
-  <img src="assets/floral-banner.svg" width="70%" alt="Small floral line art divider" />
+  <img src="assets/floral-banner.svg" width="70%" alt="Animated grayscale floral divider" />
 </p>
