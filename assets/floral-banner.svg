@@ -1,44 +1,129 @@
-<svg width="1175" height="180" viewBox="0 0 1175 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Floral line art banner</title>
-  <desc id="desc">A soft gray botanical line drawing inspired by magnolia branches.</desc>
-  <rect width="1175" height="180" fill="#fbfaf8"/>
-  <g stroke="#6f6f6f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.88">
-    <path d="M40 143 C118 117, 188 112, 260 104 C350 94, 420 71, 505 73 C595 75, 676 105, 756 93 C843 80, 914 42, 1027 28 C1078 22, 1128 19, 1162 17"/>
-    <path d="M321 101 C343 77, 363 51, 380 22"/>
-    <path d="M400 76 C421 56, 444 44, 470 39"/>
-    <path d="M742 94 C770 70, 796 48, 825 24"/>
-    <path d="M894 48 C927 31, 966 20, 1004 13"/>
-    <path d="M990 33 C1025 49, 1060 51, 1102 45"/>
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated grayscale cherry blossom banner</title>
+  <desc id="desc">A soft grayscale cherry blossom branch with subtle line drawing and falling petal animation.</desc>
+  <style>
+    .branch, .stem, .flower, .bud { stroke-linecap: round; stroke-linejoin: round; }
+    .branch { stroke: #666; stroke-width: 2.4; }
+    .stem { stroke: #747474; stroke-width: 1.9; }
+    .flower { stroke: #565656; stroke-width: 1.8; fill: none; }
+    .bud { stroke: #737373; stroke-width: 1.7; fill: #fbfaf8; }
+    .soft { opacity: .72; }
+    .draw {
+      stroke-dasharray: 1500;
+      stroke-dashoffset: 1500;
+      animation: drawLine 7s ease-in-out infinite;
+    }
+    .drawSlow {
+      stroke-dasharray: 900;
+      stroke-dashoffset: 900;
+      animation: drawLine 8s ease-in-out infinite;
+    }
+    .breathe { animation: breathe 6s ease-in-out infinite; transform-origin: center; }
+    .petal { fill: #cfcfcf; opacity: 0; }
+    @keyframes drawLine {
+      0% { stroke-dashoffset: 1500; opacity: .2; }
+      28% { stroke-dashoffset: 0; opacity: .95; }
+      78% { stroke-dashoffset: 0; opacity: .95; }
+      100% { stroke-dashoffset: 1500; opacity: .2; }
+    }
+    @keyframes breathe {
+      0%, 100% { opacity: .78; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.012); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .draw, .drawSlow, .breathe { animation: none; stroke-dashoffset: 0; }
+      animate, animateMotion, animateTransform { display: none; }
+      .petal { opacity: .35; }
+    }
+  </style>
+
+  <rect width="1200" height="250" fill="#fbfaf8"/>
+  <path d="M0 214 C135 180, 245 165, 354 151 C462 137, 541 93, 666 101 C790 109, 883 152, 1007 118 C1081 98, 1144 76, 1200 65" class="branch draw"/>
+  <path d="M315 155 C351 123, 378 84, 402 34" class="stem drawSlow"/>
+  <path d="M438 137 C477 95, 518 69, 571 58" class="stem drawSlow"/>
+  <path d="M718 107 C758 72, 789 40, 826 4" class="stem drawSlow"/>
+  <path d="M879 148 C914 108, 958 69, 1005 35" class="stem drawSlow"/>
+  <path d="M1002 119 C1045 88, 1094 76, 1155 73" class="stem drawSlow"/>
+
+  <g class="breathe">
+    <g transform="translate(118 178) rotate(-15)">
+      <path d="M0 0 C-23 -17, -17 -47, 7 -56 C34 -66, 57 -43, 50 -14 C44 12, 22 18, 0 0Z" class="flower"/>
+      <path d="M2 -2 C19 -20, 29 -35, 45 -53" class="flower soft"/>
+      <path d="M-14 -35 C-30 -43, -41 -55, -47 -70" class="stem soft"/>
+      <path d="M50 -15 C72 -26, 91 -42, 105 -61" class="stem soft"/>
+      <circle cx="15" cy="-25" r="4" fill="#686868" opacity=".55"/>
+      <path d="M12 -25 L0 -37 M15 -25 L21 -43 M18 -24 L35 -34" class="flower soft"/>
+    </g>
+
+    <g transform="translate(420 100) rotate(8)">
+      <path d="M0 0 C-32 -26, -25 -70, 13 -83 C52 -96, 87 -60, 78 -18 C70 20, 30 27, 0 0Z" class="flower"/>
+      <path d="M6 -3 C30 -27, 49 -52, 72 -78" class="flower soft"/>
+      <path d="M-16 -58 C-40 -67, -58 -84, -67 -107" class="stem soft"/>
+      <path d="M78 -18 C112 -31, 136 -54, 158 -84" class="stem soft"/>
+      <circle cx="27" cy="-42" r="5" fill="#5c5c5c" opacity=".6"/>
+      <path d="M27 -42 L6 -58 M27 -42 L38 -72 M27 -42 L58 -54 M27 -42 L16 -16" class="flower soft"/>
+    </g>
+
+    <g transform="translate(650 150) rotate(-7)">
+      <path d="M0 0 C-35 -30, -27 -75, 12 -90 C54 -106, 94 -73, 92 -27 C90 16, 32 30, 0 0Z" class="flower"/>
+      <path d="M7 -4 C31 -33, 54 -61, 83 -86" class="flower soft"/>
+      <path d="M-17 -60 C-43 -73, -63 -93, -72 -119" class="stem soft"/>
+      <path d="M92 -28 C126 -39, 158 -60, 188 -89" class="stem soft"/>
+      <circle cx="31" cy="-47" r="5" fill="#5c5c5c" opacity=".62"/>
+      <path d="M31 -47 L11 -68 M31 -47 L42 -81 M31 -47 L65 -62 M31 -47 L21 -22" class="flower soft"/>
+    </g>
+
+    <g transform="translate(900 58) rotate(4)">
+      <path d="M0 0 C-34 -28, -26 -76, 17 -90 C59 -104, 99 -67, 90 -22 C82 19, 31 28, 0 0Z" class="flower"/>
+      <path d="M7 -4 C33 -27, 55 -58, 82 -85" class="flower soft"/>
+      <path d="M-17 -62 C-43 -74, -62 -91, -75 -117" class="stem soft"/>
+      <path d="M90 -22 C124 -33, 153 -55, 180 -88" class="stem soft"/>
+      <circle cx="32" cy="-46" r="5" fill="#5c5c5c" opacity=".62"/>
+      <path d="M32 -46 L10 -63 M32 -46 L44 -78 M32 -46 L65 -60 M32 -46 L21 -19" class="flower soft"/>
+    </g>
+
+    <g transform="translate(1020 132) rotate(-10)">
+      <path d="M0 0 C-28 -24, -22 -63, 13 -76 C48 -89, 82 -59, 79 -20 C76 17, 27 25, 0 0Z" class="flower"/>
+      <path d="M6 -4 C27 -27, 47 -51, 72 -72" class="flower soft"/>
+      <path d="M-14 -51 C-37 -61, -52 -77, -61 -101" class="stem soft"/>
+      <path d="M79 -21 C110 -30, 136 -47, 161 -73" class="stem soft"/>
+      <circle cx="28" cy="-40" r="4" fill="#5c5c5c" opacity=".6"/>
+      <path d="M28 -40 L8 -56 M28 -40 L39 -67 M28 -40 L57 -52 M28 -40 L19 -17" class="flower soft"/>
+    </g>
   </g>
-  <g stroke="#5f5f5f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.9">
-    <path d="M90 126 C72 108, 73 86, 92 76 C113 65, 135 79, 136 103 C137 127, 113 141, 90 126Z"/>
-    <path d="M94 124 C106 111, 115 98, 128 83"/>
-    <path d="M83 91 C69 82, 57 71, 49 56"/>
-    <path d="M55 58 C48 48, 53 36, 64 34 C75 33, 82 43, 78 54 C74 65, 64 66, 55 58Z"/>
-    <path d="M138 105 C158 95, 170 80, 177 61"/>
-    <path d="M176 62 C181 50, 194 46, 202 54 C211 63, 205 76, 193 78 C184 79, 178 72, 176 62Z"/>
-    <path d="M420 72 C395 49, 401 18, 431 10 C463 2, 488 29, 480 61 C472 94, 443 96, 420 72Z"/>
-    <path d="M423 70 C441 51, 454 34, 472 14"/>
-    <path d="M404 24 C385 15, 370 4, 360 -14"/>
-    <path d="M480 60 C506 48, 529 32, 548 9"/>
-    <path d="M544 12 C550 -2, 566 -7, 577 3 C588 14, 579 30, 563 30 C553 30, 546 23, 544 12Z"/>
-    <path d="M596 95 C570 67, 577 27, 611 15 C646 3, 682 29, 681 68 C680 103, 620 119, 596 95Z"/>
-    <path d="M603 93 C622 70, 641 44, 663 20"/>
-    <path d="M583 38 C560 26, 545 10, 538 -12"/>
-    <path d="M680 69 C715 59, 742 42, 765 15"/>
-    <path d="M853 45 C819 19, 825 -28, 865 -40 C909 -54, 946 -17, 936 28 C927 68, 881 69, 853 45Z"/>
-    <path d="M860 42 C884 21, 901 -5, 927 -32"/>
-    <path d="M834 -11 C810 -22, 790 -38, 779 -61"/>
-    <path d="M936 27 C968 15, 990 -5, 1010 -34"/>
-    <path d="M976 70 C951 42, 958 4, 990 -8 C1023 -20, 1057 8, 1056 44 C1055 81, 1000 94, 976 70Z"/>
-    <path d="M982 68 C1001 48, 1018 22, 1040 -3"/>
-    <path d="M960 14 C939 3, 924 -12, 915 -34"/>
-    <path d="M1056 45 C1084 35, 1111 19, 1134 -3"/>
+
+  <g class="soft">
+    <path d="M245 158 C235 139, 244 121, 263 119 C282 117, 295 136, 288 154 C281 174, 254 178, 245 158Z" class="bud"/>
+    <path d="M510 74 C499 55, 509 36, 530 34 C550 33, 563 52, 556 71 C548 91, 520 94, 510 74Z" class="bud"/>
+    <path d="M772 64 C759 43, 769 21, 793 18 C816 16, 831 38, 822 60 C813 82, 784 87, 772 64Z" class="bud"/>
+    <path d="M1112 78 C1104 61, 1112 46, 1129 43 C1146 40, 1159 55, 1154 72 C1148 91, 1121 96, 1112 78Z" class="bud"/>
   </g>
-  <g stroke="#777" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.78">
-    <path d="M230 105 C224 91, 231 78, 245 76 C260 74, 270 88, 265 102 C260 116, 237 120, 230 105Z"/>
-    <path d="M312 92 C302 77, 306 59, 322 54 C339 49, 354 64, 349 81 C344 99, 322 106, 312 92Z"/>
-    <path d="M719 94 C704 79, 705 55, 722 45 C741 35, 762 49, 761 72 C760 94, 736 111, 719 94Z"/>
-    <path d="M1095 45 C1088 30, 1095 17, 1110 14 C1124 11, 1136 23, 1132 38 C1127 55, 1103 60, 1095 45Z"/>
+
+  <g>
+    <ellipse class="petal" cx="0" cy="0" rx="4" ry="9" transform="rotate(-20)">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M315 75 C290 112, 266 151, 244 232" begin="0s"/>
+      <animate attributeName="opacity" values="0;0.55;0.15;0" keyTimes="0;0.18;0.78;1" dur="8s" repeatCount="indefinite" begin="0s"/>
+      <animateTransform attributeName="transform" type="rotate" values="-20;20;-18" dur="8s" repeatCount="indefinite" additive="sum" begin="0s"/>
+    </ellipse>
+    <ellipse class="petal" cx="0" cy="0" rx="3.5" ry="8" transform="rotate(14)">
+      <animateMotion dur="9s" repeatCount="indefinite" path="M543 55 C515 95, 520 145, 492 224" begin="1.2s"/>
+      <animate attributeName="opacity" values="0;0.5;0.18;0" keyTimes="0;0.22;0.78;1" dur="9s" repeatCount="indefinite" begin="1.2s"/>
+      <animateTransform attributeName="transform" type="rotate" values="14;-28;18" dur="9s" repeatCount="indefinite" additive="sum" begin="1.2s"/>
+    </ellipse>
+    <ellipse class="petal" cx="0" cy="0" rx="4" ry="8.5" transform="rotate(22)">
+      <animateMotion dur="7.5s" repeatCount="indefinite" path="M750 82 C723 114, 735 160, 700 232" begin="2s"/>
+      <animate attributeName="opacity" values="0;0.52;0.2;0" keyTimes="0;0.2;0.78;1" dur="7.5s" repeatCount="indefinite" begin="2s"/>
+      <animateTransform attributeName="transform" type="rotate" values="22;-20;26" dur="7.5s" repeatCount="indefinite" additive="sum" begin="2s"/>
+    </ellipse>
+    <ellipse class="petal" cx="0" cy="0" rx="3.5" ry="8" transform="rotate(-8)">
+      <animateMotion dur="8.5s" repeatCount="indefinite" path="M945 50 C920 90, 941 145, 912 225" begin=".6s"/>
+      <animate attributeName="opacity" values="0;0.5;0.16;0" keyTimes="0;0.18;0.8;1" dur="8.5s" repeatCount="indefinite" begin=".6s"/>
+      <animateTransform attributeName="transform" type="rotate" values="-8;30;-24" dur="8.5s" repeatCount="indefinite" additive="sum" begin=".6s"/>
+    </ellipse>
+    <ellipse class="petal" cx="0" cy="0" rx="3" ry="7" transform="rotate(10)">
+      <animateMotion dur="10s" repeatCount="indefinite" path="M1075 92 C1045 125, 1065 167, 1035 232" begin="3s"/>
+      <animate attributeName="opacity" values="0;0.45;0.14;0" keyTimes="0;0.18;0.78;1" dur="10s" repeatCount="indefinite" begin="3s"/>
+      <animateTransform attributeName="transform" type="rotate" values="10;-22;18" dur="10s" repeatCount="indefinite" additive="sum" begin="3s"/>
+    </ellipse>
   </g>
 </svg>
