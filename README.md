@@ -39,25 +39,6 @@ I care about clean structure, readable code, good documentation, and projects th
 | [Lantern Bloom Restaurant](https://github.com/traebracy/lantern-bloom-restaurant-html) | HTML/CSS | Layout, visual design, page structure, form styling |
 | [ATM Class System](https://github.com/traebracy/atm-class-java) | Java | Classes, inheritance, account types, menu-driven logic |
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=traebracy&show_icons=true&rank_icon=github&hide_border=true&theme=graywhite" alt="Trae's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traebracy&layout=compact&hide_border=true&theme=graywhite" alt="Trae's top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=traebracy&theme=graywhite&hide_border=true" alt="Trae's GitHub streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/traebracy/traebracy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/traebracy/traebracy/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/traebracy/traebracy/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ## Practice Archive
 
 Smaller exercises are grouped into collection repositories so my profile stays easier to navigate:
