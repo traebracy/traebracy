@@ -30,15 +30,16 @@ I enjoy learning how software is structured, how small programs become larger sy
 | [ATM Class System](https://github.com/traebracy/atm-class-java) | Java | Classes, inheritance, account types, menu-driven logic |
 | [Chinese Translator](https://github.com/traebracy/chinese-translator-python) | Python | File handling, dictionaries, text parsing, word frequency |
 | [Lantern Bloom Restaurant](https://github.com/traebracy/lantern-bloom-restaurant-html) | HTML/CSS | Page structure, responsive layout, form design |
+| [Online Store](https://github.com/traebracy/online-store-java) | Java | OOP, inventory structure, multi-class program design |
 | [Password Validator](https://github.com/traebracy/password-validation-cpp) | C++ | Input validation, loops, conditionals, rule-based checks |
+| [Numeric Calculator](https://github.com/traebracy/numeric-calculator-cpp) | C++ | Arithmetic operations, switch logic, input validation |
 
 ## Practice Collections
 
-I am also organizing smaller exercises into collection repositories so my profile stays easier to navigate:
+I organized smaller exercises into collection repositories so my profile stays easier to navigate:
 
 - [Java Practice Collection](https://github.com/traebracy/java-practice-collection)
 - [Python Practice Collection](https://github.com/traebracy/python-practice-collection)
-- [FizzBuzz Practice](https://github.com/traebracy/fizzbuzz-practice)
 
 ## About Me
 
