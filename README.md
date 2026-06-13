@@ -39,8 +39,8 @@ I am interested in building software that supports learning, accessibility, and 
 | --- | --- | --- |
 | [Voice Assistant](https://github.com/traebracy/python-voice-assistant) | Python | APIs, speech recognition, desktop UI, threaded program flow |
 | [Shape Calculator](https://github.com/traebracy/java-shape-calculator) | Java | OOP, inheritance, abstract classes, JavaFX visualization |
-| [Restaurant Website](https://github.com/traebracy/restaurant-website) | HTML/CSS | Layout, visual design, page structure, form styling |
 | [ATM System](https://github.com/traebracy/java-atm-system) | Java | Classes, inheritance, account types, menu-driven logic |
+| [Online Store](https://github.com/traebracy/java-online-store) | Java | Class structure, product modeling, and store-style program flow |
 
 ## Learning Collections
 
@@ -49,6 +49,7 @@ Smaller exercises are grouped into collection repositories so my profile stays e
 - [Python Practice Collection](https://github.com/traebracy/python-practice-collection)
 - [Java Practice Collection](https://github.com/traebracy/java-practice-collection)
 - [C++ Practice Collection](https://github.com/traebracy/cpp-practice-collection)
+- [Web Practice Collection](https://github.com/traebracy/web-practice-collection)
 - [FizzBuzz Practice Collection](https://github.com/traebracy/fizzbuzz-practice-collection)
 
 ## Tools I Am Building With
