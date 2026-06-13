@@ -9,7 +9,7 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-8b5e3c?style=for-the-badge&logo=coffeescript&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-4b6584?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-b45f4d?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-4d6d9a?style=for-the-badge&logo=css&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-4d6d9a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwem0xNy4wOSA0LjQxM0w1LjQxIDQuNDFsLjIxMyAyLjYyMiAxMC4xMjUuMDAyLS4yNTUgMi43MTZoLTYuNjRsLjI0IDIuNTczaDYuMTgybC0uMzY2IDMuNTIzLTIuOTEuODA0LTIuOTU2LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdoLjAwMmwuNDY1LTUuMzM4eiIvPjwvc3ZnPg%3D%3D" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-7a6a2f?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-3f6f8f?style=for-the-badge&logo=react&logoColor=white" />
 </p>
