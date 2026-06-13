@@ -39,8 +39,6 @@ I am interested in building software that supports learning, accessibility, and 
 | --- | --- | --- |
 | [Voice Assistant](https://github.com/traebracy/python-voice-assistant) | Python | APIs, speech recognition, desktop UI, threaded program flow |
 | [Shape Calculator](https://github.com/traebracy/java-shape-calculator) | Java | OOP, inheritance, abstract classes, JavaFX visualization |
-| [ATM System](https://github.com/traebracy/java-atm-system) | Java | Classes, inheritance, account types, menu-driven logic |
-| [Online Store](https://github.com/traebracy/java-online-store) | Java | Class structure, product modeling, and store-style program flow |
 
 ## Learning Collections
 
