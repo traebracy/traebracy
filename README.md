@@ -9,7 +9,7 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-8b5e3c?style=for-the-badge&logo=coffeescript&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-4b6584?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-b45f4d?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-4d6d9a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwem0xNy4wOSA0LjQxM0w1LjQxIDQuNDFsLjIxMyAyLjYyMiAxMC4xMjUuMDAyLS4yNTUgMi43MTZoLTYuNjRsLjI0IDIuNTczaDYuMTgybC0uMzY2IDMuNTIzLTIuOTEuODA0LTIuOTU2LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdoLjAwMmwuNDY1LTUuMzM4eiIvPjwvc3ZnPg%3D%3D" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-4d6d9a?style=for-the-  badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwem0xNy4wOSA0LjQxM0w1LjQxIDQuNDFsLjIxMyAyLjYyMiAxMC4xMjUuMDAyLS4yNTUgMi43MTZoLTYuNjRsLjI0IDIuNTczaDYuMTgybC0uMzY2IDMuNTIzLTIuOTEuODA0LTIuOTU2LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdoLjAwMmwuNDY1LTUuMzM4eiIvPjwvc3ZnPg%3D%3D" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-7a6a2f?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-3f6f8f?style=for-the-badge&logo=react&logoColor=white" />
 </p>
@@ -18,17 +18,13 @@
 
 ## About Me
 
-I am learning how to build projects that are clear, useful, and easier to understand over time. Right now, I am growing across Python, Java, C++, HTML, CSS, JavaScript, and React.
-
-I care about readable code, organized projects, and documentation that explains what a project does without making it feel bigger than it is.
+I am learning how to build projects that are clear, useful, and easier to understand over time. 
 
 ## Currently Learning
 
-- React and modern web development
-- Data structures and programming fundamentals
-- Object-oriented programming in Java and Python
-- Cleaner project organization and documentation
-
+- Modern web development
+- Data structures & Algorithms w/ a consistent review in programming fundamentals
+- 
 ## What I'm Building Toward
 
 I am interested in building software that supports learning, accessibility, and real-world problem solving. One long-term goal I care about is creating tools for neurodivergent children and families.
@@ -63,4 +59,4 @@ Smaller exercises are grouped into collection repositories so my profile stays e
 
 ## A Little More
 
-Outside of code, I love learning, writing, philosophy, faith, and thinking about how technology can become something genuinely useful. I am still growing, but I want my work to become more focused, honest, and meaningful over time.
+Outside of code, I love learning ("of course, haha"), writing, philosophy, & faith. I'm still growing, but I want my work to become more focused, honest, and meaningful over time, because right now, my GitHub could use a little bit of work.
