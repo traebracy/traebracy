@@ -1,7 +1,7 @@
 <h1 align="center">Trae Bracy</h1>
 
 <p align="center">
-  Programming student learning Python, Java, C++, and web development. ("My profile is a work in progress, this is not the final result, it may take a few months 😬!"
+  Programming student learning Python, Java, C++, and web development.
 </p>
 
 <p align="center">
@@ -37,17 +37,19 @@ I am interested in building software that supports learning, accessibility, and 
 
 | Project | Tech | What it shows |
 | --- | --- | --- |
-| [Voice Assistant](https://github.com/traebracy/voice-assistant-python) | Python | APIs, speech recognition, desktop UI, threaded program flow |
-| [Shape Calculator](https://github.com/traebracy/shape-calculator-java) | Java | OOP, inheritance, abstract classes, JavaFX visualization |
-| [Lantern Bloom Restaurant](https://github.com/traebracy/lantern-bloom-restaurant-html) | HTML/CSS | Layout, visual design, page structure, form styling |
-| [ATM Class System](https://github.com/traebracy/atm-class-java) | Java | Classes, inheritance, account types, menu-driven logic |
+| [Voice Assistant](https://github.com/traebracy/python-voice-assistant) | Python | APIs, speech recognition, desktop UI, threaded program flow |
+| [Shape Calculator](https://github.com/traebracy/java-shape-calculator) | Java | OOP, inheritance, abstract classes, JavaFX visualization |
+| [Restaurant Website](https://github.com/traebracy/restaurant-website) | HTML/CSS | Layout, visual design, page structure, form styling |
+| [ATM System](https://github.com/traebracy/java-atm-system) | Java | Classes, inheritance, account types, menu-driven logic |
 
 ## Learning Collections
 
 Smaller exercises are grouped into collection repositories so my profile stays easier to navigate:
 
-- [Java Practice Collection](https://github.com/traebracy/java-practice-collection)
 - [Python Practice Collection](https://github.com/traebracy/python-practice-collection)
+- [Java Practice Collection](https://github.com/traebracy/java-practice-collection)
+- [C++ Practice Collection](https://github.com/traebracy/cpp-practice-collection)
+- [FizzBuzz Practice Collection](https://github.com/traebracy/fizzbuzz-practice-collection)
 
 ## Tools I Am Building With
 
