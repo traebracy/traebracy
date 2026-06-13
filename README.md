@@ -59,4 +59,4 @@ Smaller exercises are grouped into collection repositories so my profile stays e
 
 ## A Little More
 
-Outside of code, I love learning ("of course, haha"), writing, philosophy, & faith. I'm still growing, but I want my work to become more focused, honest, and meaningful over time, because right now, my GitHub could use a little bit of work.
+Outside of code, I love learning ("of course, haha"), writing, philosophy, & faith. I'm still growing, but I want my work to become more focused, honest, and meaningful over time.
