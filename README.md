@@ -24,10 +24,11 @@ I'm learning how to build projects that are clear, useful, and easier to underst
 
 - Modern web development
 - Data structures & Algorithms w/ a consistent review in programming fundamentals.
+- Git & GitHub 
   
 ## What I'm Building Toward
 
-I'm interested in building software that supports learning, accessibility, and real-world problem solving. One long-term goal I care about is creating tools for neurodivergent children and families.
+I'm interested in building software that supports learning, accessibility, and real-world problem solving. One long-term goal I care about is creating tools for health care, neurodivergent children, and families.
 
 ## Featured Work
 
@@ -60,3 +61,5 @@ Smaller exercises are grouped into collection repositories so my profile stays e
 ## A Little More
 
 Outside of code, I love learning ("of course, haha"), writing, philosophy, & faith. I'm still growing, but I want my work to become more focused, honest, and meaningful over time.
+
+🌱
