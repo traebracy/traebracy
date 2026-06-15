@@ -60,8 +60,24 @@ Smaller exercises are grouped into collection repositories so my profile stays e
   <img alt="CLion" src="https://img.shields.io/badge/CLion-4b6584?style=for-the-badge&logo=clion&logoColor=white" />
 </p>
 
-## A Little More
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/traebracy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=traebracy&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="traebracy's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=traebracy&theme=vue&hide_border=true&cache_seconds=86400" alt="traebracy's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=traebracy&theme=vue&radius=10" alt="traebracy's Activity Graph" />
+</p>
 
-Outside of code, I love learning ("of course, haha"), writing, philosophy, & faith. I'm still growing, but I want my work to become more focused, honest, and meaningful over time.
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/traebracy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=traebracy&langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 🌱
