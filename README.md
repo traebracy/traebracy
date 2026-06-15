@@ -23,7 +23,7 @@ I'm learning how to build projects that are clear, useful, and easier to underst
 ## Currently Learning
 
 - Modern web development
-- Data structures & Algorithms w/ a consistent review in programming fundamentals
+- Data structures & Algorithms w/ a consistent review in programming fundamentals.
 - 
 ## What I'm Building Toward
 
