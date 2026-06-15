@@ -28,7 +28,7 @@ I'm learning how to build projects that are clear, useful, and easier to underst
   
 ## What I'm Building Toward
 
-I'm interested in building software that supports learning, accessibility, and real-world problem solving. One long-term goal I care about is creating tools for health care, neurodivergent children, and families.
+I'm interested in building software that supports learning, accessibility, and real-world problem solving. One long-term goal I care about is creating tools for neurodivergent children and families.
 
 ## Featured Work
 
