@@ -1,7 +1,7 @@
 <h1 align="center">Trae Bracy</h1>
 
 <p align="center">
-  Programming student exercising core fundamental skills w/ --> 
+  "comp-sci" student exercising core fundamental skills w/ --> 
 </p>
 
 <p align="center">
@@ -18,7 +18,9 @@
 
 ## About Me
 
-I'm learning how to build projects that are clear, useful, and easier to understand over time. 
+I'm learning how to build projects that are clear, useful, and easier to understand over time.
+
+personality type --> intj/infj
 
 ## Currently Learning
 
