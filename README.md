@@ -60,7 +60,8 @@ Smaller exercises are grouped into collection repositories so my profile stays e
   <img alt="CLion" src="https://img.shields.io/badge/CLion-4b6584?style=for-the-badge&logo=clion&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats & Trophies
+##
+
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=traebracy&theme=vue&hide_border=true&cache_seconds=86400" alt="traebracy's GitHub Streak" width="49%" />
 </p>
