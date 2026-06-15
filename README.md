@@ -61,10 +61,3 @@ Smaller exercises are grouped into collection repositories so my profile stays e
 </p>
 
 🌱
-
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=traebracy">
-    <img src="https://komarev.com/ghpvc/?username=traebracy&label=Profile%20views&color=00FFFF&style=flat-square" alt="traebracy's profile views" />
-  </a>
-</p>
