@@ -1,7 +1,7 @@
 <h1 align="center">Trae Bracy</h1>
 
 <p align="center">
-  Programming student exercising core fundamental skills w/ the use of Python, Java, C++, HTML, CSS, & JavaScript.
+  Programming student exercising core fundamental skills w/ --> 
 </p>
 
 <p align="center">
