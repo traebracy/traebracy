@@ -60,6 +60,4 @@ Smaller exercises are grouped into collection repositories so my profile stays e
   <img alt="CLion" src="https://img.shields.io/badge/CLion-4b6584?style=for-the-badge&logo=clion&logoColor=white" />
 </p>
 
-<img style="-webkit-user-select:none; display:block; margin:auto; padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);" src="https://www.codedex.io/images/30-nites-of-code/step-2.gif">
-
 🌱
