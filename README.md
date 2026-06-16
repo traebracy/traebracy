@@ -20,8 +20,6 @@
 
 I'm learning how to build projects that are clear, useful, and easier to understand over time.
 
-personality type --> intj/infj
-
 ## Currently Learning
 
 - Modern web development
