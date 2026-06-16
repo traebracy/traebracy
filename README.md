@@ -54,6 +54,7 @@ Smaller exercises are grouped into collection repositories so my profile stays e
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-735d4d?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Command Line" src="https://img.shields.io/badge/Command_Line-555555?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-52718f?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-5f5f5f?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-46624f?style=for-the-badge&logo=pycharm&logoColor=white" />
