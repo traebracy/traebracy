@@ -1,7 +1,7 @@
 <h1 align="center">Trae Bracy</h1>
 
 <p align="center">
-  "comp-sci" student exercising core fundamental skills w/ --> 
+  Computer science student building practical projects in Python, Java, C++, and web development.
 </p>
 
 <p align="center">
@@ -18,24 +18,26 @@
 
 ## About Me
 
-I'm learning how to build projects that are clear, useful, and easier to understand over time.
+I'm learning how to build projects that are clear, useful, and easier to understand over time. I care about strong fundamentals, readable code, and software that can help people solve real problems.
 
-## Currently Learning
+## Now
 
-- Modern web development
-- Data structures & Algorithms w/ a consistent review in programming fundamentals.
-- Git & GitHub 
-  
+- Strengthening data structures, algorithms, and programming fundamentals
+- Building small but complete projects that show clear problem-solving
+- Learning modern web development with HTML, CSS, JavaScript, and React
+- Practicing Git and GitHub through organized project work
+
 ## What I'm Building Toward
 
-I'm interested in building software that supports learning, accessibility, and real-world problem solving. One long-term goal I care about is creating tools for neurodivergent children && families.
+I'm interested in building software that supports learning, accessibility, and real-world problem solving. One long-term goal I care about is creating tools for neurodivergent children and families.
 
 ## Featured Work
 
-| Project | Tech | What it shows |
+| Project | Tech | Focus |
 | --- | --- | --- |
-| [Voice Assistant](https://github.com/traebracy/python-voice-assistant) | Python | APIs, speech recognition, desktop UI, threaded program flow |
+| [Voice Assistant](https://github.com/traebracy/python-voice-assistant) | Python | Desktop UI, speech recognition, API integration, threaded program flow |
 | [Shape Calculator](https://github.com/traebracy/java-shape-calculator) | Java | OOP, inheritance, abstract classes, JavaFX visualization |
+| [Resume Site](https://github.com/traebracy/resume) | HTML/CSS | Semantic structure, layout, and visual presentation |
 
 ## Learning Collections
 
@@ -58,5 +60,11 @@ Smaller exercises are grouped into collection repositories so my profile stays e
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-46624f?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img alt="CLion" src="https://img.shields.io/badge/CLion-4b6584?style=for-the-badge&logo=clion&logoColor=white" />
 </p>
+
+## Next Improvements
+
+- Add screenshots or short demos to featured projects
+- Keep practice work organized into collection repositories
+- Build larger projects that combine frontend, backend, and data persistence
 
 🌱
