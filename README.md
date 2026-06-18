@@ -1,7 +1,7 @@
 <h1 align="center">Trae Bracy</h1>
 
 <p align="center">
-  Computer science student building practical projects in Python, Java, C++, and web development.
+  computer science student building practical projects in Python, Java, C++, and web development.
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@ I'm learning how to build projects that are clear, useful, and easier to underst
 
 ## Now
 
-- Strengthening data structures, algorithms, and programming fundamentals
-- Building small but complete projects that show clear problem-solving
-- Learning modern web development with HTML, CSS, JavaScript, and React
-- Practicing Git and GitHub through organized project work
+- strengthening data structures, algorithms, and programming fundamentals
+- building small but complete projects that show clear problem-solving
+- learning modern web development with HTML, CSS, JavaScript, and React
+- practicing git && github through organized project work
 
 ## What I'm Building Toward
 
@@ -41,7 +41,7 @@ I'm interested in building software that supports learning, accessibility, and r
 
 ## Learning Collections
 
-Smaller exercises are grouped into collection repositories so my profile stays easier to navigate:
+smaller exercises are grouped into collection repositories so my profile stays easier to navigate:
 
 - [Python Practice Collection](https://github.com/traebracy/python-practice-collection)
 - [Java Practice Collection](https://github.com/traebracy/java-practice-collection)
@@ -66,5 +66,3 @@ Smaller exercises are grouped into collection repositories so my profile stays e
 - add screenshots or short demos to featured projects
 - keep practice work organized into collection repositories
 - build larger projects that combine frontend, backend, and data persistence
-
-🌱
