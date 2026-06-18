@@ -1,7 +1,7 @@
 <h1 align="center">trae bracy</h1>
 
 <p align="center">
-  computer science student building practical knowledge w/ projects & gaining exposure to different software and frameworks to further improve my abilities 
+  computer science student building practical knowledge w/ projects & gaining exposure to different software & frameworks to further improve my abilities 
 </p>
 
 <p align="center">
@@ -18,18 +18,18 @@
 
 ## about me
 
-I'm learning how to build projects that are clear, useful, and easier to understand over time. i care about strong fundamentals, readable code, and software that can help people solve real problems
+I'm learning how to build projects that are clear, useful, & easier to understand over time. I care about strong fundamentals, readable code, & software that can help people solve real problems
 
 ## now
 
-- strengthening data structures, algorithms, and programming fundamentals
+- strengthening data structures, algorithms, & programming fundamentals
 - building small but complete projects that show clear problem-solving
-- learning modern web development with html, css, javascript, and react
+- learning modern web development with html, css, javascript, & react
 - practicing git && github through organized project work
 
 ## what I'm building toward
 
-I'm interested in building software that supports learning, accessibility, and real-world problem solving. one long-term goal i care about is creating tools for neurodivergent children and families.
+I'm interested in building software that supports learning, accessibility, & real-world problem-solving; one long-term goal I care about is creating tools for neurodivergent children & families.
 
 ## featured work
 
@@ -37,7 +37,7 @@ I'm interested in building software that supports learning, accessibility, and r
 | --- | --- | --- |
 | [voice assistant](https://github.com/traebracy/python-voice-assistant) | python | desktop ui, speech recognition, api integration, threaded program flow |
 | [shape calculator](https://github.com/traebracy/java-shape-calculator) | java | oop, inheritance, abstract classes, javafx visualization |
-| [resume site](https://github.com/traebracy/resume) | html/css | semantic structure, layout, and visual presentation |
+| [resume site](https://github.com/traebracy/resume) | html/css | semantic structure, layout, & visual presentation |
 
 ## learning collections
 
@@ -54,7 +54,7 @@ smaller exercises are grouped into collection repositories so my profile stays e
 <p>
   <img alt="git" src="https://img.shields.io/badge/git-735d4d?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/github-444444?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="command line" src="https://img.shields.io/badge/command_line-555555?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="comm& line" src="https://img.shields.io/badge/comm&_line-555555?style=for-the-badge&logo=linux&logoColor=white" />
   <img alt="vs code" src="https://img.shields.io/badge/vs_code-52718f?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="intellij idea" src="https://img.shields.io/badge/intellij_idea-5f5f5f?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img alt="pycharm" src="https://img.shields.io/badge/pycharm-46624f?style=for-the-badge&logo=pycharm&logoColor=white" />
@@ -65,4 +65,4 @@ smaller exercises are grouped into collection repositories so my profile stays e
 
 - add screenshots or short demos to featured projects
 - keep practice work organized into collection repositories
-- build larger projects that combine frontend, backend, and data persistence
+- build larger projects that combine frontend, backend, & data persistence
