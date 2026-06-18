@@ -18,7 +18,7 @@
 
 ## about me
 
-i'm learning how to build projects that are clear, useful, and easier to understand over time. i care about strong fundamentals, readable code, and software that can help people solve real problems
+I'm learning how to build projects that are clear, useful, and easier to understand over time. i care about strong fundamentals, readable code, and software that can help people solve real problems
 
 ## now
 
@@ -27,9 +27,9 @@ i'm learning how to build projects that are clear, useful, and easier to underst
 - learning modern web development with html, css, javascript, and react
 - practicing git && github through organized project work
 
-## what i'm building toward
+## what I'm building toward
 
-i'm interested in building software that supports learning, accessibility, and real-world problem solving. one long-term goal i care about is creating tools for neurodivergent children and families.
+I'm interested in building software that supports learning, accessibility, and real-world problem solving. one long-term goal i care about is creating tools for neurodivergent children and families.
 
 ## featured work
 
@@ -49,7 +49,7 @@ smaller exercises are grouped into collection repositories so my profile stays e
 - [web practice collection](https://github.com/traebracy/web-practice-collection)
 - [fizzbuzz practice collection](https://github.com/traebracy/fizzbuzz-practice-collection)
 
-## tools i'm building with
+## tools I'm building with
 
 <p>
   <img alt="git" src="https://img.shields.io/badge/git-735d4d?style=for-the-badge&logo=git&logoColor=white" />
