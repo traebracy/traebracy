@@ -1,7 +1,7 @@
 <h1 align="center">Trae Bracy</h1>
 
 <p align="center">
-  computer science student building practical projects in Python, Java, C++, and web development.
+  computer science student building practical projects in Python, Java, C++, and web development
 </p>
 
 <p align="center">
