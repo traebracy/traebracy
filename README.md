@@ -1,7 +1,7 @@
 <h1 align="center">Trae Bracy</h1>
 
 <p align="center">
-  computer science student building practical knowledge w/ projects & exposure to different software and frameworks 
+  computer science student building practical knowledge w/ projects & gaining exposure to different software and frameworks to further improve my abilities 
 </p>
 
 <p align="center">
