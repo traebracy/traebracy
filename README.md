@@ -63,6 +63,7 @@ smaller exercises are grouped into collection repositories so my profile stays e
 
 ## currently improving
 
-- add screenshots or short demos to featured projects
-- keep practice work organized into collection repositories
-- build larger projects that combine frontend, backend, & data persistence
+- adding screenshots or short demos to featured projects
+- keeping practice work organized into collection repositories
+- building larger projects that combine frontend, backend, & data persistence
+- integrating knowledge & mathematical skills I've acquired from discrete mathematics w/ things like recursion & applying it to solve practical problems
