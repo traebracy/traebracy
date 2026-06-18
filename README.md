@@ -25,7 +25,7 @@ I'm learning how to build projects that are clear, useful, & easier to understan
 - strengthening data structures, algorithms, & programming fundamentals
 - building small but complete projects that show clear problem-solving
 - learning modern web development with html, css, javascript, & react
-- practicing git && github through organized project work
+- practicing git & github through organized project work
 
 ## what I'm building toward
 
