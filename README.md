@@ -63,8 +63,8 @@ Smaller exercises are grouped into collection repositories so my profile stays e
 
 ## Next Improvements
 
-- Add screenshots or short demos to featured projects
-- Keep practice work organized into collection repositories
-- Build larger projects that combine frontend, backend, and data persistence
+- add screenshots or short demos to featured projects
+- keep practice work organized into collection repositories
+- build larger projects that combine frontend, backend, and data persistence
 
 🌱
