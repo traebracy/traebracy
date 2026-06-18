@@ -12,6 +12,7 @@
   <img alt="html5" src="https://img.shields.io/badge/html5-b45f4d?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/css-4d6d9a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwem0xNy4wOSA0LjQxM0w1LjQxIDQuNDFsLjIxMyAyLjYyMiAxMC4xMjUuMDAyLS4yNTUgMi43MTZoLTYuNjRsLjI0IDIuNTczaDYuMTgybC0uMzY2IDMuNTIzLTIuOTEuODA0LTIuOTU2LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdoLjAwMmwuNDY1LTUuMzM4eiIvPjwvc3ZnPg%3D%3D" />
   <img alt="javascript" src="https://img.shields.io/badge/javascript-7a6a2f?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="lua" src="https://img.shields.io/badge/lua-4b6584?style=for-the-badge&logo=lua&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/react-3f6f8f?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
