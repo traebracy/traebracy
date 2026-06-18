@@ -6,6 +6,7 @@
 
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/python-2f6f73?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="numpy" src="https://img.shields.io/badge/numpy-4d6d9a?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/java-8b5e3c?style=for-the-badge&logo=coffeescript&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/c%2B%2B-4b6584?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/html5-b45f4d?style=for-the-badge&logo=html5&logoColor=white" />
