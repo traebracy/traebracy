@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm learning how to build projects that are clear, useful, and easier to understand over time. I care about strong fundamentals, readable code, and software that can help people solve real problems.
+I'm learning how to build projects that are clear, useful, and easier to understand over time. I care about strong fundamentals, readable code, and software that can help people solve real problems
 
 ## Now
 
