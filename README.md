@@ -1,4 +1,4 @@
-<h1 align="center">trae bracy</h1>
+<h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
   computer science student building practical knowledge w/ projects & gaining exposure to different software & frameworks to further improve my abilities 
