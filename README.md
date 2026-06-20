@@ -24,12 +24,6 @@ I'm learning how to build projects that are clear, useful, & easier to understan
 
 my favorite programming language is Java; it's very explicit 👾
 
-programming is when I feel most alive, and I love connecting things that I learn through life to technology, w/ math being an example
-
-I also love building computers and am highly connected in my faith, I enjoy philosophy, and have an interest in exploring behavioral intervention strategies for neurodivergent children
-
-I have so many interests I couldn't name them all, but those are a few 🙌
-
 ## now
 
 - strengthening data structures, algorithms, & programming fundamentals
