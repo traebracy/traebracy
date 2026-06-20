@@ -22,7 +22,7 @@
 
 I'm learning how to build projects that are clear, useful, & easier to understand over time. I care about strong fundamentals, readable code, & software that can help people solve real problems
 
-I feel like myself most when im learning & my favorite programming language is Java; it's very explicit & helps me stay organized 👾
+I feel like myself most when I'm learning, & my favorite programming language is Java; it's very explicit & helps me stay organized 👾
 
 ## now
 
