@@ -36,7 +36,7 @@
 - Education technology
 - Accessible learning systems
 - Human-centered data systems
-- Java and Python development
+- Java & Python development
 - Data structures, algorithms, and discrete math fundamentals
   
 ---
