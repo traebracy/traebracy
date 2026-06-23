@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
-  computer science student building practical knowledge w/ projects & gaining exposure to different software & frameworks to further improve my abilities 
+  I’m a Computer Science student with experience in ABA/RBT work, focused on building software that supports neurodivergent people, behavioral health systems, and accessible learning.
+
+  My main interests are backend software engineering, human-centered data systems, education technology, and tools that make support more organized, understandable, and accessible.
 </p>
 
 <p align="center">
@@ -18,24 +20,63 @@
 
 ---
 
-## about me
+## Focus Areas
 
-I'm learning how to build projects that are clear, useful, & easier to understand over time. I care about strong fundamentals, readable code, & software that can help people solve real problems
+- Backend software engineering
+- Behavioral health technology
+- Autism support tools
+- Education technology
+- Accessible learning systems
+- Human-centered data systems
+- Java and Python development
+- Data structures, algorithms, and discrete math fundamentals
+  
+---
 
-I feel like myself most when I'm learning, & my favorite programming language is Java; it's very explicit & helps me stay organized 👾
+## Technical Direction
 
-## now
+I am building toward software that can help with:
 
-- strengthening data structures, algorithms, & programming fundamentals
-- building small but complete projects that show clear problem-solving
-- learning modern web development with html, css, javascript, & react
-- practicing git & github through organized project work
+- tracking behavioral health progress
+- organizing session, goal, and learning data
+- supporting neurodivergent students and families
+- making educational tools more accessible
+- helping care teams, learners, and families better understand progress
+- turning complex information into clear systems
 
-## what I'm building toward
+---
 
-I'm interested in building software that supports learning, accessibility, & real-world problem-solving; one long-term goal I care about is creating tools for neurodivergent children & families.
+## Project Philosophy
 
-## featured work
+I use projects to turn abstract computer science concepts into working software.
+
+My goal is not just to build programs, but to build systems that are clear, useful, and connected to real human needs.
+
+I am especially interested in the overlap between software engineering, behavioral health, accessibility, and education.
+
+---
+
+## Featured Direction
+
+I am working toward projects such as:
+
+| Project Type | Purpose |
+|---|---|
+| Behavioral Progress Tracker | Track goals, behaviors, sessions, and progress over time |
+| Neurodivergent Study Planner | Help students structure learning in a low-overwhelm way |
+| Education Data Dashboard | Organize learning progress into clear visual summaries |
+| Accessible Learning Tools | Make programming and academic concepts easier to understand |
+| Backend APIs for Support Systems | Build reliable systems for storing and retrieving care or learning data |
+
+---
+
+## Long-Term Goal
+
+My long-term goal is to become a backend/software engineer building technology for behavioral health, autism support, education technology, or human-centered data systems.
+
+I want my work to support people who are often misunderstood, overwhelmed, or underserved by traditional systems.
+
+## Featured Work
 
 | project | tech | focus |
 | --- | --- | --- |
@@ -43,7 +84,7 @@ I'm interested in building software that supports learning, accessibility, & rea
 | [shape calculator](https://github.com/traebracy/java-shape-calculator) | java | oop, inheritance, abstract classes, javafx visualization |
 | [resume site](https://github.com/traebracy/resume) | html/css | semantic structure, layout, & visual presentation |
 
-## learning collections
+## Learning Collections
 
 smaller exercises are grouped into collection repositories so my profile stays easier to navigate:
 
@@ -53,7 +94,7 @@ smaller exercises are grouped into collection repositories so my profile stays e
 - [web practice collection](https://github.com/traebracy/web-practice-collection)
 - [fizzbuzz practice collection](https://github.com/traebracy/fizzbuzz-practice-collection)
 
-## tools I'm building with
+## Tools I'm building with
 
 ![git](https://img.shields.io/badge/git-735d4d?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-444444?style=for-the-badge&logo=github&logoColor=white)
@@ -64,9 +105,3 @@ smaller exercises are grouped into collection repositories so my profile stays e
 ![pycharm](https://img.shields.io/badge/pycharm-46624f?style=for-the-badge&logo=pycharm&logoColor=white)
 ![clion](https://img.shields.io/badge/clion-4b6584?style=for-the-badge&logo=clion&logoColor=white)
 
-## currently improving
-
-- adding screenshots or short demos to featured projects
-- keeping practice work organized into collection repositories
-- building larger projects that combine frontend, backend, & data persistence
-- integrating knowledge & mathematical skills I've acquired from discrete mathematics w/ things like recursion & applying it to solve practical problems
