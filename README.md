@@ -5,7 +5,7 @@
 
 ## About Me
 
-Before focusing deeply on software engineering, I worked as an RBT supporting children in an ABA environment whilst pursuing my undergrad in Computer Science. That experience shaped me and left a lasting impact on how I think about technology, care, and accessibility.
+Before focusing deeply on software engineering, I worked as an RBT supporting children in ABA whilst pursuing my undergrad in Computer Science. That experience shaped me and left a lasting impact on how I think about technology, care, and accessibility.
 
 I cared deeply about the kids I worked with, and that experience helped me see how technology and human-centered care can work together to support people in meaningful ways. I want to build software that helps neurodivergent people, caregivers, educators, and behavioral health teams through structured, meaningful, and accessible tools.
 
