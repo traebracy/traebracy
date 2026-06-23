@@ -84,6 +84,8 @@ My long-term goal is to become a backend/software engineer building technology f
 
 I want my work to support people who are often misunderstood, overwhelmed, or underserved by traditional systems.
 
+---
+
 ## Featured Work
 
 | project | tech | focus |
@@ -91,6 +93,8 @@ I want my work to support people who are often misunderstood, overwhelmed, or un
 | [voice assistant](https://github.com/traebracy/python-voice-assistant) | python | desktop ui, speech recognition, api integration, threaded program flow |
 | [shape calculator](https://github.com/traebracy/java-shape-calculator) | java | oop, inheritance, abstract classes, javafx visualization |
 | [resume site](https://github.com/traebracy/resume) | html/css | semantic structure, layout, & visual presentation |
+
+---
 
 ## Learning Collections
 
@@ -101,6 +105,8 @@ smaller exercises are grouped into collection repositories so my profile stays e
 - [c++ practice collection](https://github.com/traebracy/cpp-practice-collection)
 - [web practice collection](https://github.com/traebracy/web-practice-collection)
 - [fizzbuzz practice collection](https://github.com/traebracy/fizzbuzz-practice-collection)
+
+---
 
 ## Dev Tools 
 
