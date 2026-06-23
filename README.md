@@ -1,13 +1,7 @@
 <h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
-  I’m a Computer Science student and former RBT, focused on building software that supports neurodivergent individuals, behavioral health systems, and accessible learning.
-</p>
-
----
-
-<p align="center">
-  My main interests are backend software engineering, human-centered data systems, education technology, and tools that make support more organized, understandable, and accessible.
+  I’m a Computer Science student and former RBT, focused on building software that supports accessible learning, neurodivergent individuals, & behavioral health systems.
 </p>
 
 ---
