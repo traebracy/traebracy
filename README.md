@@ -12,6 +12,8 @@
 
 ---
 
+## Tech Stack 
+
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/python-2f6f73?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/numpy-4d6d9a?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -100,7 +102,7 @@ smaller exercises are grouped into collection repositories so my profile stays e
 - [web practice collection](https://github.com/traebracy/web-practice-collection)
 - [fizzbuzz practice collection](https://github.com/traebracy/fizzbuzz-practice-collection)
 
-## Tools I'm building with
+## Dev Tools 
 
 ![git](https://img.shields.io/badge/git-735d4d?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-444444?style=for-the-badge&logo=github&logoColor=white)
