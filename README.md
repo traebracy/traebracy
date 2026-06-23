@@ -2,8 +2,8 @@
 
 <p align="center">
   I’m a Computer Science student with experience in ABA/RBT work, focused on building software that supports neurodivergent people, behavioral health systems, and accessible learning.
-
-  My main interests are backend software engineering, human-centered data systems, education technology, and tools that make support more organized, understandable, and accessible.
+  
+    My main interests are backend software engineering, human-centered data systems, education technology, and tools that make support more organized, understandable, and accessible.
 </p>
 
 <p align="center">
