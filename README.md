@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
-  I’m a Computer Science student and former RBT, focused on building software that supports neurodivergent people, behavioral health systems, and accessible learning.
+  I’m a Computer Science student and former RBT, focused on building software that supports neurodivergent individuals, behavioral health systems, and accessible learning.
 </p>
 
 ---
