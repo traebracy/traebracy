@@ -6,9 +6,10 @@
 
 ---
 
-<p align="center"> 
+<p align="center">
   My main interests are backend software engineering, human-centered data systems, education technology, and tools that make support more organized, understandable, and accessible.
 </p>
+
 ---
 
 ## Tech Stack 
