@@ -10,6 +10,8 @@
   My main interests are backend software engineering, human-centered data systems, education technology, and tools that make support more organized, understandable, and accessible.
 </p>
 
+---
+
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/python-2f6f73?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/numpy-4d6d9a?style=for-the-badge&logo=numpy&logoColor=white" />
