@@ -8,22 +8,21 @@
 
 <p align="center"> 
   My main interests are backend software engineering, human-centered data systems, education technology, and tools that make support more organized, understandable, and accessible.
-</p>
 
 ---
 
 ## Tech Stack 
 
 <p align="center">
-  <img alt="python" src="https://img.shields.io/badge/python-30A14E?style=for-the-badge&logo=python&logoColor=black" />
+  <img alt="python" src="https://img.shields.io/badge/python-9BE9A8?style=for-the-badge&logo=python&logoColor=black" />
   <img alt="numpy" src="https://img.shields.io/badge/numpy-9BE9A8?style=for-the-badge&logo=numpy&logoColor=black" />
-  <img alt="java" src="https://img.shields.io/badge/java-30A14E?style=for-the-badge&logo=coffeescript&logoColor=black" />
+  <img alt="java" src="https://img.shields.io/badge/java-9BE9A8?style=for-the-badge&logo=coffeescript&logoColor=black" />
   <img alt="c++" src="https://img.shields.io/badge/c%2B%2B-9BE9A8?style=for-the-badge&logo=cplusplus&logoColor=black" />
-  <img alt="html5" src="https://img.shields.io/badge/html5-30A14E?style=for-the-badge&logo=html5&logoColor=black" />
+  <img alt="html5" src="https://img.shields.io/badge/html5-9BE9A8?style=for-the-badge&logo=html5&logoColor=black" />
   <img alt="css" src="https://img.shields.io/badge/css-9BE9A8?style=for-the-badge&logo=css3&logoColor=black" />
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-30A14E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-9BE9A8?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="lua" src="https://img.shields.io/badge/lua-9BE9A8?style=for-the-badge&logo=lua&logoColor=black" />
-  <img alt="react" src="https://img.shields.io/badge/react-30A14E?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="react" src="https://img.shields.io/badge/react-9BE9A8?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ---
@@ -32,13 +31,13 @@
 
 <p align="center"> 
   <img alt="git" src="https://img.shields.io/badge/git-9BE9A8?style=for-the-badge&logo=git&logoColor=black" />
-  <img alt="github" src="https://img.shields.io/badge/github-30A14E?style=for-the-badge&logo=github&logoColor=black" />
+  <img alt="github" src="https://img.shields.io/badge/github-9BE9A8?style=for-the-badge&logo=github&logoColor=black" />
   <img alt="codex" src="https://img.shields.io/badge/codex-9BE9A8?style=for-the-badge&logo=openai&logoColor=black" />
-  <img alt="command line" src="https://img.shields.io/badge/command%20line-30A14E?style=for-the-badge&logo=gnometerminal&logoColor=black" />
+  <img alt="command line" src="https://img.shields.io/badge/command%20line-9BE9A8?style=for-the-badge&logo=gnometerminal&logoColor=black" />
   <img alt="vs code" src="https://img.shields.io/badge/vs%20code-9BE9A8?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-  <img alt="intellij idea" src="https://img.shields.io/badge/intellij%20idea-30A14E?style=for-the-badge&logo=intellijidea&logoColor=black" />
+  <img alt="intellij idea" src="https://img.shields.io/badge/intellij%20idea-9BE9A8?style=for-the-badge&logo=intellijidea&logoColor=black" />
   <img alt="pycharm" src="https://img.shields.io/badge/pycharm-9BE9A8?style=for-the-badge&logo=pycharm&logoColor=black" />
-  <img alt="clion" src="https://img.shields.io/badge/clion-30A14E?style=for-the-badge&logo=clion&logoColor=black" />
+  <img alt="clion" src="https://img.shields.io/badge/clion-9BE9A8?style=for-the-badge&logo=clion&logoColor=black" />
 </p>
 
 ---
