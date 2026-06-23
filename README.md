@@ -20,7 +20,7 @@
   <img alt="java" src="https://img.shields.io/badge/java-9BE9A8?style=for-the-badge&logo=coffeescript&logoColor=black" />
   <img alt="c++" src="https://img.shields.io/badge/c%2B%2B-9BE9A8?style=for-the-badge&logo=cplusplus&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/html5-9BE9A8?style=for-the-badge&logo=html5&logoColor=black" />
-  <img alt="css" src="https://img.shields.io/badge/css-9BE9A8?style=for-the-badge&logo=css&logoColor=black" />
+  <img alt="css" src="https://img.shields.io/badge/css-9BE9A8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwMCIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwem0xNy4wOSA0LjQxM0w1LjQxIDQuNDFsLjIxMyAyLjYyMiAxMC4xMjUuMDAyLS4yNTUgMi43MTZoLTYuNjRsLjI0IDIuNTczaDYuMTgybC0uMzY2IDMuNTIzLTIuOTEuODA0LTIuOTU2LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdoLjAwMmwuNDY1LTUuMzM4eiIvPjwvc3ZnPg%3D%3D" />
   <img alt="javascript" src="https://img.shields.io/badge/javascript-9BE9A8?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="lua" src="https://img.shields.io/badge/lua-9BE9A8?style=for-the-badge&logo=lua&logoColor=black" />
   <img alt="react" src="https://img.shields.io/badge/react-9BE9A8?style=for-the-badge&logo=react&logoColor=black" />
