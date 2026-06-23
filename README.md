@@ -55,16 +55,14 @@ smaller exercises are grouped into collection repositories so my profile stays e
 
 ## tools I'm building with
 
-<p>
-  <img alt="git" src="https://img.shields.io/badge/git-735d4d?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/github-444444?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="codex" src="https://img.shields.io/badge/codex-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="command line" src="https://img.shields.io/badge/command_line-555555?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="vs code" src="https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img alt="intellij idea" src="https://img.shields.io/badge/intellij_idea-5f5f5f?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img alt="pycharm" src="https://img.shields.io/badge/pycharm-46624f?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img alt="clion" src="https://img.shields.io/badge/clion-4b6584?style=for-the-badge&logo=clion&logoColor=white" />
-</p>
+![git](https://img.shields.io/badge/git-735d4d?style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-444444?style=for-the-badge&logo=github&logoColor=white)
+![codex](https://img.shields.io/badge/codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![command line](https://img.shields.io/badge/command_line-555555?style=for-the-badge&logo=linux&logoColor=white)
+![vs code](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![intellij idea](https://img.shields.io/badge/intellij_idea-5f5f5f?style=for-the-badge&logo=intellijidea&logoColor=white)
+![pycharm](https://img.shields.io/badge/pycharm-46624f?style=for-the-badge&logo=pycharm&logoColor=white)
+![clion](https://img.shields.io/badge/clion-4b6584?style=for-the-badge&logo=clion&logoColor=white)
 
 ## currently improving
 
