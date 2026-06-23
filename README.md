@@ -28,7 +28,7 @@
 
 ---
 
-## Dev Tools 
+## Development Tools 
 
 <p align="center"> 
   <img alt="git" src="https://img.shields.io/badge/git-9BE9A8?style=for-the-badge&logo=git&logoColor=black" />
