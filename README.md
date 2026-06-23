@@ -15,15 +15,15 @@
 ## Tech Stack 
 
 <p align="center">
-  <img alt="python" src="https://img.shields.io/badge/python-30A14E?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="numpy" src="https://img.shields.io/badge/numpy-30A14E?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/java-30A14E?style=for-the-badge&logo=coffeescript&logoColor=white" />
-  <img alt="c++" src="https://img.shields.io/badge/c%2B%2B-30A14E?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/html5-30A14E?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/css-30A14E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwem0xNy4wOSA0LjQxM0w1LjQxIDQuNDFsLjIxMyAyLjYyMiAxMC4xMjUuMDAyLS4yNTUgMi43MTZoLTYuNjRsLjI0IDIuNTczaDYuMTgybC0uMzY2IDMuNTIzLTIuOTEuODA0LTIuOTU2LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdoLjAwMmwuNDY1LTUuMzM4eiIvPjwvc3ZnPg%3D%3D" />
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-30A14E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="lua" src="https://img.shields.io/badge/lua-30A14E?style=for-the-badge&logo=lua&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/react-30A14E?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/python-9BE9A8?style=for-the-badge&logo=python&logoColor=black" />
+  <img alt="numpy" src="https://img.shields.io/badge/numpy-9BE9A8?style=for-the-badge&logo=numpy&logoColor=black" />
+  <img alt="java" src="https://img.shields.io/badge/java-9BE9A8?style=for-the-badge&logo=coffeescript&logoColor=black" />
+  <img alt="c++" src="https://img.shields.io/badge/c%2B%2B-9BE9A8?style=for-the-badge&logo=cplusplus&logoColor=black" />
+  <img alt="html5" src="https://img.shields.io/badge/html5-9BE9A8?style=for-the-badge&logo=html5&logoColor=black" />
+  <img alt="css" src="https://img.shields.io/badge/css-9BE9A8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwem0xNy4wOSA0LjQxM0w1LjQxIDQuNDFsLjIxMyAyLjYyMiAxMC4xMjUuMDAyLS4yNTUgMi43MTZoLTYuNjRsLjI0IDIuNTczaDYuMTgybC0uMzY2IDMuNTIzLTIuOTEuODA0LTIuOTU2LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdoLjAwMmwuNDY1LTUuMzM4eiIvPjwvc3ZnPg%3D%3D" />
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-9BE9A8?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="lua" src="https://img.shields.io/badge/lua-9BE9A8?style=for-the-badge&logo=lua&logoColor=black" />
+  <img alt="react" src="https://img.shields.io/badge/react-9BE9A8?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ---
@@ -110,12 +110,12 @@ smaller exercises are grouped into collection repositories so my profile stays e
 
 ## Dev Tools 
 
-![git](https://img.shields.io/badge/git-30A14E?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-30A14E?style=for-the-badge&logo=github&logoColor=white)
-![codex](https://img.shields.io/badge/codex-30A14E?style=for-the-badge&logo=openai&logoColor=white)
-![command line](https://img.shields.io/badge/command_line-30A14E?style=for-the-badge&logo=linux&logoColor=white)
-![vs code](https://img.shields.io/badge/vs_code-30A14E?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![intellij idea](https://img.shields.io/badge/intellij_idea-30A14E?style=for-the-badge&logo=intellijidea&logoColor=white)
-![pycharm](https://img.shields.io/badge/pycharm-30A14E?style=for-the-badge&logo=pycharm&logoColor=white)
-![clion](https://img.shields.io/badge/clion-30A14E?style=for-the-badge&logo=clion&logoColor=white)
+![git](https://img.shields.io/badge/git-9BE9A8?style=for-the-badge&logo=git&logoColor=black)
+![github](https://img.shields.io/badge/github-9BE9A8?style=for-the-badge&logo=github&logoColor=black)
+![codex](https://img.shields.io/badge/codex-9BE9A8?style=for-the-badge&logo=openai&logoColor=black)
+![command line](https://img.shields.io/badge/command_line-9BE9A8?style=for-the-badge&logo=linux&logoColor=black)
+![vs code](https://img.shields.io/badge/vs_code-9BE9A8?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![intellij idea](https://img.shields.io/badge/intellij_idea-9BE9A8?style=for-the-badge&logo=intellijidea&logoColor=black)
+![pycharm](https://img.shields.io/badge/pycharm-9BE9A8?style=for-the-badge&logo=pycharm&logoColor=black)
+![clion](https://img.shields.io/badge/clion-9BE9A8?style=for-the-badge&logo=clion&logoColor=black)
 
