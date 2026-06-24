@@ -1,15 +1,16 @@
 <h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
-  I’m a Computer Science student & former RBT [@Fraser](https://www.fraser.org/), focused on building software that supports accessible learning, neurodivergent individuals, & behavioral health systems.
+  I’m a Computer Science student & former RBT <a href="https://www.fraser.org/">@Fraser</a>, focused on building software that supports accessible learning, neurodivergent individuals, & behavioral health systems.
+</p>
+
+---
 
 ## About Me
 
-Before focusing deeply on software engineering, I worked as an RBT supporting children in ABA whilst pursuing my undergrad in Computer Science. That experience shaped me and left a lasting impact on how I think about technology, care, and accessibility.
+Before focusing deeply on software engineering, I worked as an RBT supporting children in ABA while pursuing my undergrad in Computer Science. That experience shaped how I think about technology, care, and accessibility.
 
-I cared deeply about the kids I worked with, and that experience helped me see how technology and human-centered care can work together to support people in meaningful ways. I want to build software that helps neurodivergent people, caregivers, educators, and behavioral health teams through structured, meaningful, and accessible tools.
-
-</p>
+I want to build software that helps neurodivergent people, caregivers, educators, and behavioral health teams through structured, meaningful, and accessible tools.
 
 ---
 
@@ -44,17 +45,14 @@ I cared deeply about the kids I worked with, and that experience helped me see h
 
 ---
 
-## Focus Areas
+## Featured Work
 
-- Backend software engineering
-- Behavioral health technology
-- Autism support tools
-- Education technology
-- Accessible learning systems
-- Human-centered data systems
-- Java & Python development
-- Data structures, algorithms, and discrete math fundamentals
-  
+| project | tech | focus |
+| --- | --- | --- |
+| [voice assistant](https://github.com/traebracy/py-voice-assistant) | python | desktop ui, speech recognition, api integration, threaded program flow |
+| [shape calculator](https://github.com/traebracy/jv-shape-calculator) | java | oop, inheritance, abstract classes, javafx visualization |
+| [resume site](https://github.com/traebracy/resume) | html/css | semantic structure, layout, & visual presentation |
+
 ---
 
 ## Technical Direction
@@ -70,6 +68,31 @@ I am building toward software that can help with:
 
 ---
 
+## Project Ideas I'm Building Toward
+
+| project type | purpose |
+| --- | --- |
+| behavioral progress tracker | track goals, behaviors, sessions, and progress over time |
+| neurodivergent study planner | help students structure learning in a low-overwhelm way |
+| education data dashboard | organize learning progress into clear visual summaries |
+| accessible learning tools | make programming and academic concepts easier to understand |
+| backend APIs for support systems | store and retrieve care or learning data reliably |
+
+---
+
+## Focus Areas
+
+- backend software engineering
+- behavioral health technology
+- autism support tools
+- education technology
+- accessible learning systems
+- human-centered data systems
+- java & python development
+- data structures, algorithms, and discrete math fundamentals
+
+---
+
 ## Project Philosophy
 
 I use projects to turn abstract computer science concepts into working software.
@@ -77,20 +100,6 @@ I use projects to turn abstract computer science concepts into working software.
 My goal is not just to build programs, but to build systems that are clear, useful, and connected to real human needs.
 
 I am especially interested in the overlap between software engineering, behavioral health, accessibility, and education.
-
----
-
-## Featured Direction
-
-I am working toward projects such as:
-
-| Project Type | Purpose |
-|---|---|
-| Behavioral Progress Tracker | Track goals, behaviors, sessions, and progress over time |
-| Neurodivergent Study Planner | Help students structure learning in a low-overwhelm way |
-| Education Data Dashboard | Organize learning progress into clear visual summaries |
-| Accessible Learning Tools | Make programming and academic concepts easier to understand |
-| Backend APIs for Support Systems | Build reliable systems for storing and retrieving care or learning data |
 
 ---
 
@@ -102,22 +111,12 @@ I want my work to support people who are often misunderstood, overwhelmed, or un
 
 ---
 
-## Featured Work
-
-| project | tech | focus |
-| --- | --- | --- |
-| [voice assistant](https://github.com/traebracy/python-voice-assistant) | python | desktop ui, speech recognition, api integration, threaded program flow |
-| [shape calculator](https://github.com/traebracy/java-shape-calculator) | java | oop, inheritance, abstract classes, javafx visualization |
-| [resume site](https://github.com/traebracy/resume) | html/css | semantic structure, layout, & visual presentation |
-
----
-
 ## Learning Collections
 
 smaller exercises are grouped into collection repositories so my profile stays easier to navigate:
 
-- [python practice collection](https://github.com/traebracy/python-practice-collection)
-- [java practice collection](https://github.com/traebracy/java-practice-collection)
-- [c++ practice collection](https://github.com/traebracy/cpp-practice-collection)
-- [web practice collection](https://github.com/traebracy/web-practice-collection)
-- [fizzbuzz practice collection](https://github.com/traebracy/fizzbuzz-practice-collection)
+- [python practice collection](https://github.com/traebracy/py-practice-coll.)
+- [java practice collection](https://github.com/traebracy/jv-practice-coll.)
+- [c++ practice collection](https://github.com/traebracy/cpp-practice-coll.)
+- [web practice collection](https://github.com/traebracy/web-practice-coll.)
+- [fizzbuzz practice collection](https://github.com/traebracy/fizzbuzz-practice-coll.)
