@@ -51,9 +51,9 @@ I want to build software that helps neurodivergent people, caregivers, and behav
 
 | project | tech | focus |
 | --- | --- | --- |
-| [voice assistant](https://github.com/traebracy/py-voice-assistant) | python | desktop ui, speech recognition, api integration, threaded program flow |
-| [shape calculator](https://github.com/traebracy/jv-shape-calculator) | java | oop, inheritance, abstract classes, javafx visualization |
-| [resume site](https://github.com/traebracy/resume) | html/css | semantic structure, layout, & visual presentation |
+| [traebracy/py-voice-assistant](https://github.com/traebracy/py-voice-assistant) | python | desktop ui, speech recognition, api integration, threaded program flow |
+| [traebracy/jv-shape-calculator](https://github.com/traebracy/jv-shape-calculator) | java | oop, inheritance, abstract classes, javafx visualization |
+| [traebracy/resume](https://github.com/traebracy/resume) | html/css | semantic structure, layout, & visual presentation |
 
 ---
 
@@ -117,8 +117,8 @@ I want my work to support people who are often misunderstood, overwhelmed, or un
 
 smaller exercises are grouped into collection repositories so my profile stays easier to navigate:
 
-- [python practice collection](https://github.com/traebracy/py-practice-coll.)
-- [java practice collection](https://github.com/traebracy/jv-practice-coll.)
-- [c++ practice collection](https://github.com/traebracy/cpp-practice-coll.)
-- [web practice collection](https://github.com/traebracy/web-practice-coll.)
-- [fizzbuzz practice collection](https://github.com/traebracy/fizzbuzz-practice-coll.)
+- [traebracy/py-practice-coll.](https://github.com/traebracy/py-practice-coll.)
+- [traebracy/jv-practice-coll.](https://github.com/traebracy/jv-practice-coll.)
+- [traebracy/cpp-practice-coll.](https://github.com/traebracy/cpp-practice-coll.)
+- [traebracy/web-practice-coll.](https://github.com/traebracy/web-practice-coll.)
+- [traebracy/fizzbuzz-practice-coll.](https://github.com/traebracy/fizzbuzz-practice-coll.)
