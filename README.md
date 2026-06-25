@@ -8,13 +8,13 @@
 
 ## About Me
 
-Before focusing deeply on software engineering, I worked as an RBT supporting children in ABA while pursuing my undergrad in Computer Science. That experience shaped how I think about technology, care, and accessibility.
+Before focusing deeply on software engineering, I worked as an RBT supporting children in ABA while pursuing my undergraduate degree in Computer Science. That experience shaped how I think about technology, care, accessibility, and the systems people rely on every day.
 
 I want to build software that helps neurodivergent people, caregivers, educators, and behavioral health teams through structured, meaningful, and accessible tools.
 
 ---
 
-## Tech Stack 
+## Tech Stack
 
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/python-9BE9A8?style=for-the-badge&logo=python&logoColor=black" />
@@ -30,7 +30,7 @@ I want to build software that helps neurodivergent people, caregivers, educators
 
 ---
 
-## Development Tools 
+## Development Tools
 
 <p align="center"> 
   <img alt="git" src="https://img.shields.io/badge/git-9BE9A8?style=for-the-badge&logo=git&logoColor=black" />
@@ -59,7 +59,7 @@ I want to build software that helps neurodivergent people, caregivers, educators
 
 ## Technical Direction
 
-I am building toward software that can help with:
+I am building toward software that helps with:
 
 - tracking behavioral health progress
 - organizing session, goal, and learning data
@@ -84,12 +84,13 @@ I am building toward software that can help with:
 
 ## Focus Areas
 
-- backend software engineering
+- backend/software engineering
 - behavioral health technology
 - autism support tools
 - education technology
 - accessible learning systems
 - human-centered data systems
+- ui planning, diagrams, & visual structure
 - java & python development
 - data structures, algorithms, and discrete math fundamentals
 
