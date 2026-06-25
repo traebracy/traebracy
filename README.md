@@ -77,7 +77,6 @@ I am building toward software that helps with:
 | behavioral progress tracker | track goals, behaviors, sessions, and progress over time |
 | neurodivergent study planner | help students structure learning in a low-overwhelm way |
 | education data dashboard | organize learning progress into clear visual summaries |
-| accessible learning tools | make programming and academic concepts easier to understand |
 | backend APIs for support systems | store and retrieve care or learning data reliably |
 
 ---
