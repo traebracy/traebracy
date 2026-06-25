@@ -107,7 +107,7 @@ I am especially interested in the overlap between software engineering, behavior
 
 ## Long-Term Goal
 
-My long-term goal is to become a backend/software engineer building technology for behavioral health, autism support, education technology, or human-centered data systems.
+My long-term goal is to become a backend/software engineer building technology for behavioral health, autism support, or human-centered data systems.
 
 I want my work to support people who are often misunderstood, overwhelmed, or underserved by traditional systems.
 
