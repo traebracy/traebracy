@@ -8,6 +8,8 @@
 
 ## About Me
 
+favorite programming language: Python for intuitive, fast thinking & Java for organization and reliability.  
+
 Before focusing deeply on software engineering, I worked as an RBT supporting children in ABA while pursuing my undergraduate degree in Computer Science. That experience shaped how I think about technology, care, accessibility, and the systems people rely on every day.
 
 I want to build software that helps neurodivergent people, caregivers, and behavioral health teams through structured, meaningful, and accessible tools.
