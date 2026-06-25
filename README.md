@@ -8,7 +8,7 @@
 
 ## About Me
 
-favorite programming language: Python for intuitive, fast thinking & Java for organization and reliability.  
+favorite programming language: Python for intuitive, fast thinking & Java for organization, and reliability.
 
 Before focusing deeply on software engineering, I worked as an RBT supporting children in ABA while pursuing my undergraduate degree in Computer Science. That experience shaped how I think about technology, care, accessibility, and the systems people rely on every day.
 
