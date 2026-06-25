@@ -101,7 +101,7 @@ I use projects to turn abstract computer science concepts into working software.
 
 My goal is not just to build programs, but to build systems that are clear, useful, and connected to real human needs.
 
-I am especially interested in the overlap between software engineering, behavioral health & accessibility.
+I am especially interested in the overlap between software engineering, behavioral health, & accessibility.
 
 ---
 
