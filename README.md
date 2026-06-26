@@ -101,5 +101,5 @@ smaller exercises are grouped into collection repositories so my profile stays e
 - [traebracy/py-practice-coll.](https://github.com/traebracy/py-practice-coll.)
 - [traebracy/jv-practice-coll.](https://github.com/traebracy/jv-practice-coll.)
 - [traebracy/cpp-practice-coll.](https://github.com/traebracy/cpp-practice-coll.)
-- [traebracy/web-practice-coll.](https://github.com/traebracy/web-practice-coll.)
+- [traebracy/web-dsgn-practice-coll.](https://github.com/traebracy/web-dsgn-practice-coll.)
 - [traebracy/fizzbuzz-practice-coll.](https://github.com/traebracy/fizzbuzz-practice-coll.)
