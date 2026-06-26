@@ -1,18 +1,14 @@
 <h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
-  I’m a Computer Science student & proud former RBT <a href="https://www.fraser.org/">@Fraser</a>, focused on building software that supports accessible learning, neurodivergent individuals, & behavioral health systems.
+  I’m a Computer Science student & former RBT <a href="https://www.fraser.org/">@Fraser</a>, focused on building software that supports accessible learning, neurodivergent individuals, & behavioral health systems.
 </p>
 
 ---
 
 ## About Me
 
-favorite programming language: Python for intuitive, fast thinking & Java for organization, and reliability.
-
-Before focusing deeply on software engineering, I worked as an RBT supporting children in ABA while pursuing my undergraduate degree in Computer Science. That experience shaped how I think about technology, care, accessibility, and the systems people rely on every day.
-
-I want to build software that helps neurodivergent people, caregivers, and behavioral health teams through structured, meaningful, and accessible tools.
+I want to build software that helps neurodivergent people, caregivers, and behavioral health teams through structured, meaningful, and accessible curated tools.
 
 ---
 
@@ -49,24 +45,13 @@ I want to build software that helps neurodivergent people, caregivers, and behav
 
 ---
 
-## Featured Work "Not-Final"
-
-| project | tech | focus |
-| --- | --- | --- |
-| [traebracy/py-voice-assistant](https://github.com/traebracy/py-voice-assistant) | python | desktop ui, speech recognition, api integration, threaded program flow |
-| [traebracy/jv-shape-calculator](https://github.com/traebracy/jv-shape-calculator) | java | oop, inheritance, abstract classes, javafx visualization |
-| [traebracy/resume](https://github.com/traebracy/resume) | html/css | semantic structure, layout, & visual presentation |
-
----
-
 ## Technical Direction
 
-I am building toward software that helps with:
+I'm building toward software that helps with:
 
 - tracking behavioral health progress
 - organizing session, goal, and learning data
 - supporting neurodivergent students and families
-- making educational tools more accessible
 - helping care teams, learners, and families better understand progress
 - turning complex information into clear systems
 
@@ -88,8 +73,6 @@ I am building toward software that helps with:
 - backend/software engineering
 - behavioral health technology
 - autism support tools
-- education technology
-- accessible learning systems
 - human-centered data systems
 - ui planning, diagrams, & visual structure
 - java & python development
@@ -99,11 +82,7 @@ I am building toward software that helps with:
 
 ## Project Philosophy
 
-I use projects to turn abstract computer science concepts into working software.
-
-My goal is not just to build programs, but to build systems that are clear, useful, and connected to real human needs.
-
-I am especially interested in the overlap between software engineering, behavioral health, & accessibility.
+My goal is not just to program, but to build systems that are clear, useful, and connected to real human needs.
 
 ---
 
