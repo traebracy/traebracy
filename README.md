@@ -103,3 +103,15 @@ smaller exercises are grouped into collection repositories so my profile stays e
 - [traebracy/cpp-practice-coll.](https://github.com/traebracy/cpp-practice-coll.)
 - [traebracy/web-dsgn-practice-coll.](https://github.com/traebracy/web-dsgn-practice-coll.)
 - [traebracy/fizzbuzz-practice-coll.](https://github.com/traebracy/fizzbuzz-practice-coll.)
+
+## Current Focus of Revision 
+
+fizzbuzz quickly 
+
+git-github-macos 
+
+ui-ux design 
+
+resume 
+
+projects 
