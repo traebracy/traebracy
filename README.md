@@ -98,22 +98,20 @@ I want my work to support people who are often misunderstood, overwhelmed, or un
 
 smaller exercises are grouped into collection repositories so my profile stays easier to navigate:
 
-- [traebracy/py-practice-coll.](https://github.com/traebracy/py-practice-coll.)
-- [traebracy/jv-practice-coll.](https://github.com/traebracy/jv-practice-coll.)
-- [traebracy/cpp-practice-coll.](https://github.com/traebracy/cpp-practice-coll.)
-- [traebracy/web-dsgn-practice-coll.](https://github.com/traebracy/web-dsgn-practice-coll.)
-- [traebracy/fizzbuzz-practice-coll.](https://github.com/traebracy/fizzbuzz-practice-coll.)
+- [bracytrae/py-practice-coll.](https://github.com/bracytrae/py-practice-coll.)
+- [bracytrae/jv-practice-coll.](https://github.com/bracytrae/jv-practice-coll.)
+- [bracytrae/cpp-practice-coll.](https://github.com/bracytrae/cpp-practice-coll.)
+- [bracytrae/web-dsgn-practice-coll.](https://github.com/bracytrae/web-dsgn-practice-coll.)
+- [bracytrae/fizzbuzz-practice-coll.](https://github.com/bracytrae/fizzbuzz-practice-coll.)
 
-## Current Focus of Revision 
+---
 
-dsa / disc. math
+## Current Revision Focus
 
-fizzbuzz quickly 
-
-git-github-macos 
-
-ui-ux design 
-
-resume 
-
-projects 
+- data structures & algorithms
+- discrete math
+- FizzBuzz practice
+- Git, GitHub, and macOS command practice
+- UI/UX design
+- resume site
+- project cleanup and polish
