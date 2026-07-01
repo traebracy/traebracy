@@ -106,6 +106,8 @@ smaller exercises are grouped into collection repositories so my profile stays e
 
 ## Current Focus of Revision 
 
+dsa / disc. math
+
 fizzbuzz quickly 
 
 git-github-macos 
